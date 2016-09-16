@@ -1,0 +1,7 @@
+run: gitlab-workhorse: (pid 1038) 1353s; run: log: (pid 1031) 1353s
+run: logrotate: (pid 1034) 1353s; run: log: (pid 1025) 1353s
+run: nginx: (pid 18812) 697s; run: log: (pid 1028) 1353s
+run: postgresql: (pid 1039) 1353s; run: log: (pid 1029) 1353s
+run: redis: (pid 1040) 1353s; run: log: (pid 1032) 1353s
+run: sidekiq: (pid 18803) 697s; run: log: (pid 1026) 1353s
+run: unicorn: (pid 18948) 684s; run: log: (pid 1027) 1353s

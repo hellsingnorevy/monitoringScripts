@@ -1,0 +1,7 @@
+down: gitlab-workhorse: 13s, normally up; run: log: (pid 985) 6379617s
+down: logrotate: 13s, normally up; run: log: (pid 980) 6379617s
+down: nginx: 12s, normally up; run: log: (pid 979) 6379617s
+down: postgresql: 11s, normally up; run: log: (pid 982) 6379617s
+down: redis: 11s, normally up; run: log: (pid 981) 6379617s
+down: sidekiq: 7s, normally up; run: log: (pid 987) 6379617s
+down: unicorn: 7s, normally up; run: log: (pid 986) 6379617s
